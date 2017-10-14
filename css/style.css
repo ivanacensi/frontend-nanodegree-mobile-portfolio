@@ -130,3 +130,8 @@ footer span {
   float: right;
   font-style: italic;
 }
+
+image{
+  width: 100px; 
+  height: 50px;
+}

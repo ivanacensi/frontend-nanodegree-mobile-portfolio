@@ -24,11 +24,6 @@
   },
   "homepage": "https://github.com/ivanacensi/frontend-nanodegree-mobile-portfolio#readme",
   "devDependencies": {
-    "grunt": "^1.0.1",
-    "grunt-contrib-connect": "^1.0.2",
-    "grunt-contrib-copy": "^1.0.0",
-    "grunt-contrib-watch": "^1.0.0",
-    "grunt-responsive-images": "^1.10.1",
     "lite-server": "^2.3.0"
   },
   "dependencies": {}

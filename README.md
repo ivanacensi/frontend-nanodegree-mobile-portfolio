@@ -13,7 +13,7 @@ http://localhost:3000/
 
 # Site optimization
 
-Improve pageSpeed score
+## Improve pageSpeed score
 
 - Optimize css use in index.html
 
@@ -31,7 +31,7 @@ Improve pageSpeed score
         Use an pizza-100px.jpg optimized for the site project miniature
         Use of an optimized pizza.png
 
-Improve pizza.html framerate
+## Improve pizza.html framerate
 
 - Introduce a updatePositions 
 
